@@ -12,5 +12,3 @@ Catch common Java mistakes as compile-time errors
 
 Local Modifications:
 No changes to the original source
-Added gn and gyp files
-Use javac jar from https://github.com/google/error-prone-javac when building.
